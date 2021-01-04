@@ -66,10 +66,15 @@ section{
     background-position: left;
 }
 
+.experiences-area h1{
+    text-align: left;
+}
+
 .single-experience{
     box-shadow: 10px 10px 40px grey;
     border-radius: 7px;
     height: 70%;
+    background-color: white;
 }
 
 .single-experience p{
